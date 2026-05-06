@@ -1,0 +1,21 @@
+# Ignore downloaded data and zip files
+data/
+mitbih_dataset.zip
+
+# Ignore Python virtual environments
+.env
+.venv
+env/
+venv/
+
+# Ignore Python cache and Jupyter checkpoints
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore pdf files
+variant_A.pdf
+variant_B.pdf
+variant_C.pdf
+variant_D.pdf
+G-AMS-28 Artificial Intelligence_Machine Learning.pdf
