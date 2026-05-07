@@ -12,9 +12,3 @@ venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-
-# Ignore pdf files
-variant_A.pdf
-variant_B.pdf
-variant_C.pdf
-variant_D.pdf
