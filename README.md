@@ -312,7 +312,7 @@ Final model performance:
 # Installation
 
 ```bash
-git clone < https://github.com/VS-CODE-DEVLOPER/ECG-Arrhythmia-Detection.git >
+git clone  https://github.com/VS-CODE-DEVLOPER/ECG-Arrhythmia-Detection.git 
 
 cd AI_ML_SEM5_FINALPROJECT
 
